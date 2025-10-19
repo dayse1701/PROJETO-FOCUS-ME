@@ -1,4 +1,4 @@
-Personas, User Stories e Kanban
+'Personas, User Stories e Kanban
 
 🎯 Personas
 
@@ -24,12 +24,15 @@ Como o FocusMe ajuda: centraliza as tarefas em um único painel, com visualizaç
 
 📋 User Stories e Critérios de Aceitação
 
-Nº	User Story	Critério de Aceitação
-1	Como usuário, quero criar uma nova tarefa, para organizar minhas atividades diárias.	O sistema permite adicionar título e descrição e salva a tarefa na lista.
-2	Como usuário, quero marcar uma tarefa como concluída, para acompanhar o que já finalizei.	Ao clicar em “concluir”, a tarefa muda de status ou fica riscada.
-3	Como usuário, quero excluir uma tarefa, para remover itens que não são mais necessários.	A tarefa é removida da lista após confirmação do usuário.
-4	Como usuário, quero ver um resumo de tarefas concluídas e pendentes, para medir minha produtividade semanal.	O sistema exibe contagem total e percentual de tarefas concluídas.
-5	Como usuário, quero editar o nome e a descrição de uma tarefa, para corrigir ou atualizar informações.	O sistema salva as alterações feitas sem apagar dados anteriores.
+
+| Nº | User Story | Critério de Aceitação |
+|----|-------------|------------------------|
+| **1** | Como usuário, quero **criar uma nova tarefa**, para organizar minhas atividades diárias. | O sistema permite adicionar título e descrição e salva a tarefa na lista. |
+| **2** | Como usuário, quero **marcar uma tarefa como concluída**, para acompanhar o que já finalizei. | Ao clicar em “concluir”, a tarefa muda de status ou fica riscada. |
+| **3** | Como usuário, quero **excluir uma tarefa**, para remover itens que não são mais necessários. | A tarefa é removida da lista após confirmação do usuário. |
+| **4** | Como usuário, quero **ver um resumo de tarefas concluídas e pendentes**, para medir minha produtividade semanal. | O sistema exibe contagem total e percentual de tarefas concluídas. |
+| **5** | Como usuário, quero **editar o nome e a descrição de uma tarefa**, para corrigir ou atualizar informações. | O sistema salva as alterações feitas sem apagar dados anteriores. |
+
 
 🧩 Backlog do MVP
 
