@@ -34,14 +34,15 @@ Como o FocusMe ajuda: centraliza as tarefas em um único painel, com visualizaç
 | **5** | Como usuário, quero **editar o nome e a descrição de uma tarefa**, para corrigir ou atualizar informações. | O sistema salva as alterações feitas sem apagar dados anteriores. |
 
 
-🧩 Backlog do MVP
+## 🧩 Backlog do MVP
 
-Prioridade	User Story	Critério de Aceitação	Status Inicial
-Alta	Criar nova tarefa	Permitir adicionar título e descrição e salvar a tarefa.	A Fazer
-Alta	Marcar tarefa como concluída	Status muda e tarefa fica riscada/destacada.	A Fazer
-Média	Excluir tarefa	Excluir apenas após confirmação do usuário.	A Fazer
-Média	Editar tarefa	Permitir editar título e descrição e salvar alterações.	A Fazer
-Baixa	Resumo semanal	Exibir total de tarefas criadas, concluídas e pendentes.	A Fazer
+| **Prioridade** | **User Story** | **Critério de Aceitação** | **Status Inicial** |
+|----------------|----------------|----------------------------|--------------------|
+| **Alta** | Criar nova tarefa | Permitir adicionar título e descrição e salvar a tarefa. | A Fazer |
+| **Alta** | Marcar tarefa como concluída | Status muda e tarefa fica riscada/destacada. | A Fazer |
+| **Média** | Excluir tarefa | Excluir apenas após confirmação do usuário. | A Fazer |
+| **Média** | Editar tarefa | Permitir editar título e descrição e salvar alterações. | A Fazer |
+| **Baixa** | Resumo semanal | Exibir total de tarefas criadas, concluídas e pendentes. | A Fazer |
 
 🗓️ Planejamento dos Sprints
 
